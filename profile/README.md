@@ -1,9 +1,10 @@
-<a href="https://nowaydevelopers.com" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009413160366784532/NowayDevelopersa.png"></a>
-<a href="#" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009413986464313395/Home.png"></a>
-<a href="#" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009413665067376681/About.png"></a>
-<a href="https://discord.gg/noway" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009409315091791952/Dscord_Buton.png"></a> <br>
+<h1>NOWAY Developers</h1>   <a href="https://nowaydevelopers.com">Web Page</a> <br>
 
-<a href="https://discord.com/users/354710015829082133" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009417326690586707/home_menu.png"></a> <br>
+<h1>About</h1>
 
-<a href="https://nowaydevelopers.com/#about" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009421860632535192/About.png"></a>
-<a href="https://nowaydevelopers.com/#contact" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009422155827650600/Contact.png"></a>
+<p>Noway Developers, 2022 yılında kurulan kar amacı gütmeyen ve amacı geliştiricileri ön plana çıkarmak olan bir topluluk projesidir. Bünyesinde bulunan proje ve ekip üyelerini ön plana çıkarması yanında gerek manevi gerek maddi yardımda bulunarak sürekliliği ve disiplini sağlamaktadır.</p>
+
+<h1>Social Links</h1>
+<a href="https://nowaydevelopers.com">Web Page</a> 
+<a href="https://discord.gg/noway">Discord Server</a>
+<a href="https://instagram.com/nowaydevelopers">İnstagram</a>
