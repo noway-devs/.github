@@ -1,4 +1,3 @@
-<h1 align="center"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1006925515879358465/logo.png" width="23"> Noway Developers</h1>
 <a href="https://nowaydevelopers.com" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009413160366784532/NowayDevelopersa.png"></a>
 <a href="#" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009413986464313395/Home.png"></a>
 <a href="#" target="blank_"><img src="https://cdn.discordapp.com/attachments/1005142866881957958/1009413665067376681/About.png"></a>
